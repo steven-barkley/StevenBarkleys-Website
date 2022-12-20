@@ -1,3 +1,3 @@
-# Super Code Girl
+# Steven Barkley's website
 
 ## Install techniques
