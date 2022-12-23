@@ -1,11 +1,9 @@
 function decrypt( data ) {
-    return 'decrypted'
+    return 'decrypted data'
 }
 
-function read() {
+module.exports = function read() {
     return decrypt( 'data' );
 }
 
-module.exports = {
-    read,
-}
+
