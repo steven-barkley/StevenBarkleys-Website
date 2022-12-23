@@ -5,3 +5,4 @@ if ( mission === 'learning' ) {
 } else {
     console.log( `Is ${ mission } really more fun?` );
 }
+
