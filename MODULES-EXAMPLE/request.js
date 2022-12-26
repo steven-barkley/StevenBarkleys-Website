@@ -11,3 +11,5 @@ exports.send = function send( url, data ) {
 
 
 console.log( 'Hello from request.js' );
+
+console.log( require.cache );
